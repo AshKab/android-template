@@ -5,7 +5,7 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "MinimalTemplate"
+rootProject.name = "TwinDogsTest"
 include(":app")
 include(":data")
 include(":domain")
